@@ -36,7 +36,7 @@ The algorithm fills empty cells in a 9×9 Sudoku grid recursively and backtracks
 ---
 
 ### 👩‍💻 Contributor
-- **Shruti Jadhav (PRN: 123B1F035)**
+- **Shruti Jadhav**
 
 ---
 
