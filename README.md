@@ -40,5 +40,4 @@ The algorithm fills empty cells in a 9×9 Sudoku grid recursively and backtracks
 
 ---
 
-### 🧾 License
-This project is for educational purposes under the PCCOE IT Department (FA-II 2025–26).
+
